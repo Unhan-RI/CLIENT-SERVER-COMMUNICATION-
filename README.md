@@ -1,3 +1,7 @@
-Miranda BM Sigalingging dan Sufi Naylil Karomah
+**TUGAS TERDISTRIBUSI / CLIENT-SERVER COMMUNICATION**
 
-CLIENT-SERVER-COMMUNICATION
+Miranda BM Sigalingging (320220401015)
+
+Sufi Naylil Karomah (320220401024)
+
+
